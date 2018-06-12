@@ -1,0 +1,13 @@
+# Serverless directories
+.serverless
+
+# golang output binary directory
+bin
+
+# golang vendor (dependencies) directory
+vendor
+
+# IDE & OS
+.idea/
+.DS_Store
+
